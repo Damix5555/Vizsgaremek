@@ -25,7 +25,6 @@ INSERT INTO parts (name, description) VALUES
 ('szíj', 'Óraszíj – resin, gumi, fém, stb.'),
 ('lunetta', 'Bezel vagy keret, ami az óra testét körbeveszi'),
 ('mutató', 'Óramutatók (óra, perc, másodperc)'),
-('gomb', 'Oldalsó vezérlőgombok'),
 ('számlap', 'Dial / háttér dizájn');
 
 
