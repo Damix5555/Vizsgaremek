@@ -42,12 +42,12 @@
 
               <li class="mb-3 d-flex align-items-start gap-2">
                 <span class="badge bg-primary mt-1">2</span>
-                <span>Átlátható rendelési folyamat és egyszerű kosárkezelés.</span>
+                <span>Gyors és egyszerű vásárlás.</span>
               </li>
 
               <li class="d-flex align-items-start gap-2">
                 <span class="badge bg-primary mt-1">3</span>
-                <span>Admin felület a termékek, rendeléseik és audit log kezelésére.</span>
+                <span>Mindent egy helyen kezelhet.</span>
               </li>
             </ul>
           </div>

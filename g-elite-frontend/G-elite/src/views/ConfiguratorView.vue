@@ -247,7 +247,7 @@ const saveConfiguration = async () => {
 
   try {
     const payload = {
-      name: 'Frontendből mentett konfiguráció',
+      name: 'Custom konfiguráció',
       parts: configurator.selectedPartsIds,
     };
 
